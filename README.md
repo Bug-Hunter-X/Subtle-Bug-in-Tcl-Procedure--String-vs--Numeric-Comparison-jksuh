@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in a Tcl procedure related to string vs. numeric comparison.  The `bug.tcl` file contains the buggy code, which incorrectly uses string comparison when numeric comparison is needed.  The `bugSolution.tcl` file provides the corrected code.  This example highlights the importance of careful data type handling in Tcl.
